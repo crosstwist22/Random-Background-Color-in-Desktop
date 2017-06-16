@@ -1,9 +1,4 @@
-<?php 
-    include 'include/core.php';
-    $con = new Query(); 
 
-
-?>
 <!DOCTYPE html>
 <html>
     <head>
